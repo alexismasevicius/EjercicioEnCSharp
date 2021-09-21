@@ -1,0 +1,16 @@
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\bin\Debug\net5.0\Ejercicio26.exe
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\bin\Debug\net5.0\Ejercicio26.deps.json
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\bin\Debug\net5.0\Ejercicio26.runtimeconfig.json
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\bin\Debug\net5.0\Ejercicio26.runtimeconfig.dev.json
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\bin\Debug\net5.0\Ejercicio26.dll
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\bin\Debug\net5.0\ref\Ejercicio26.dll
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\bin\Debug\net5.0\Ejercicio26.pdb
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\obj\Debug\net5.0\Ejercicio26.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\obj\Debug\net5.0\Ejercicio26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\obj\Debug\net5.0\Ejercicio26.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\obj\Debug\net5.0\Ejercicio26.AssemblyInfo.cs
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\obj\Debug\net5.0\Ejercicio26.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\obj\Debug\net5.0\Ejercicio26.dll
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\obj\Debug\net5.0\ref\Ejercicio26.dll
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\obj\Debug\net5.0\Ejercicio26.pdb
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Ejercicio26\obj\Debug\net5.0\Ejercicio26.genruntimeconfig.cache

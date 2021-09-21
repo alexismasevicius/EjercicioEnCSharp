@@ -1,0 +1,12 @@
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\bin\Debug\net5.0\Moneda.deps.json
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\bin\Debug\net5.0\Moneda.dll
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\bin\Debug\net5.0\ref\Moneda.dll
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\bin\Debug\net5.0\Moneda.pdb
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\obj\Debug\net5.0\Moneda.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\obj\Debug\net5.0\Moneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\obj\Debug\net5.0\Moneda.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\obj\Debug\net5.0\Moneda.AssemblyInfo.cs
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\obj\Debug\net5.0\Moneda.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\obj\Debug\net5.0\Moneda.dll
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\obj\Debug\net5.0\ref\Moneda.dll
+C:\Users\alexi\Desktop\ProgYLaboII\Clases4y5\Moneda\obj\Debug\net5.0\Moneda.pdb
