@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    sealed class Moto:Vehiculo
+    public sealed class Moto:Vehiculo
     {
 
         public enum ETipo{Ciclomotor, Scooter, Sport}

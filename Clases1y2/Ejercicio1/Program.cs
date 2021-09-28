@@ -10,7 +10,7 @@ namespace Ejercicio1
             /*1.Ingresar 5 números por consola, guardándolos en una variable escalar.
              * Luego calcular y mostrar: el valor máximo, el valormínimo y el promedio*/
             
-            
+            /*
             int numero;
             int mayorNumero = int.MinValue;
             int menorNumero = int.MaxValue;
@@ -41,6 +41,22 @@ namespace Ejercicio1
             Console.WriteLine("El mayor numero  es : {0}", mayorNumero);
 
             Console.WriteLine("El menor numero  es : {0}", menorNumero);
+
+            */
+
+         string n1 = "lalala";
+         string n2 = "lalala";
+         string n3 = "papapa";
+		
+            if(n1==n2)
+            { 
+                Console.Write("Sirve");
+            }
+            else
+            {
+                Console.Write("NO Sirve");
+            }
+
 
             
         }

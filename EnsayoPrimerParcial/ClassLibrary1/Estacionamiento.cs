@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    class Estacionamiento
+    public class Estacionamiento
     {
         private int capacidadEstacionamiento;
         private static Estacionamiento estacionamiento;
@@ -27,12 +27,12 @@ namespace ClassLibrary1
         //PROPIEDADES
         public List<Vehiculo> ListadoVehiculos
         {
-            get { return this.listadoVehiculos }
+            get { return this.listadoVehiculos; }
         }
 
         public string Nombre
         {
-            get { }
+            get { return this.nombre; }
         }
         //METODOS
 

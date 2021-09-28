@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    abstract class Vehiculo
+    public abstract class Vehiculo
     {
         private DateTime horaEgreso;
         private DateTime horaIngreso;
@@ -29,7 +29,7 @@ namespace ClassLibrary1
             get { return this.horaEgreso; }
             set
             {
-                if (DateTime.Compare(this.horaEgreso, this.HoraIngreso) > 0)
+                if (value > this.horaEgreso)
                 {
                     this.horaEgreso = value;
                 }
@@ -96,7 +96,7 @@ namespace ClassLibrary1
             StringBuilder strB = new StringBuilder();
 
             strB.AppendLine($"La patente es :{this.Patente}");
-            strB.AppendLine($"La hora de egreso es: {this.HoraEgreso}");
+            strB.AppendLine($"La hora de ingreso es: {this.HoraIngreso}");
 
             return strB.ToString();
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\Desktop\\ProgYLaboII\\Clases1y2\\Ejercicio1\\Ejercicio1.csproj": {}
+    "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases1y2\\Ejercicio1\\Ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\Desktop\\ProgYLaboII\\Clases1y2\\Ejercicio1\\Ejercicio1.csproj": {
+    "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases1y2\\Ejercicio1\\Ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\Desktop\\ProgYLaboII\\Clases1y2\\Ejercicio1\\Ejercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases1y2\\Ejercicio1\\Ejercicio1.csproj",
         "projectName": "Ejercicio1",
-        "projectPath": "C:\\Users\\alexi\\Desktop\\ProgYLaboII\\Clases1y2\\Ejercicio1\\Ejercicio1.csproj",
+        "projectPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases1y2\\Ejercicio1\\Ejercicio1.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\Desktop\\ProgYLaboII\\Clases1y2\\Ejercicio1\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases1y2\\Ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    sealed class Automovil : Vehiculo
+    public sealed class Automovil : Vehiculo
     {
         private string marca;
         private static double valorHora;
