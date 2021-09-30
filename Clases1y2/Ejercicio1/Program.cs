@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Ejercicio1
 {
@@ -9,7 +10,7 @@ namespace Ejercicio1
 
             /*1.Ingresar 5 números por consola, guardándolos en una variable escalar.
              * Luego calcular y mostrar: el valor máximo, el valormínimo y el promedio*/
-            
+
             /*
             int numero;
             int mayorNumero = int.MinValue;
@@ -43,7 +44,7 @@ namespace Ejercicio1
             Console.WriteLine("El menor numero  es : {0}", menorNumero);
 
             */
-
+            /*
          string n1 = "lalala";
          string n2 = "lalala";
          string n3 = "papapa";
@@ -56,8 +57,30 @@ namespace Ejercicio1
             {
                 Console.Write("NO Sirve");
             }
+            */
+            
 
+            int max = 5;
 
+            Queue<double> data = new Queue<double>();
+
+            int i;
+
+            for (i = max; i > 0; i--)
+
+            {
+
+                data.Enqueue("lalala");
+            }
+            for (i = 0; i < max; i++)
+
+            { Console.Write($"{data.Dequeue()}");
+
+            }
+
+            Console.ReadKey();
+
+        
             
         }
     }
