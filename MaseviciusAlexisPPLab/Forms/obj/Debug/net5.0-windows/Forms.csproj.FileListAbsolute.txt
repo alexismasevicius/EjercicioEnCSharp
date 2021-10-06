@@ -1,0 +1,44 @@
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.exe
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.deps.json
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.runtimeconfig.json
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.runtimeconfig.dev.json
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.dll
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\ref\Forms.dll
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.pdb
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\BibliotecaDeClases.dll
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\BibliotecaDeClases.pdb
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.FormPrincipal.resources
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.AssemblyInfo.cs
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.csproj.CopyComplete
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.dll
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\ref\Forms.dll
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.pdb
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.genruntimeconfig.cache
+C:\Users\alexi\Desktop\Masevicius Alexis PPlabo\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.Properties.Resources.resources
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.exe
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.deps.json
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.runtimeconfig.json
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.runtimeconfig.dev.json
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\ref\Forms.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\Forms.pdb
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\BibliotecaDeClases.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\bin\Debug\net5.0-windows\BibliotecaDeClases.pdb
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.FormPrincipal.resources
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.Properties.Resources.resources
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.AssemblyInfo.cs
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.csproj.CopyComplete
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\ref\Forms.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.pdb
+C:\Users\alexi\Desktop\EjercicioEnCSharp\MaseviciusAlexisPPLab\Forms\obj\Debug\net5.0-windows\Forms.genruntimeconfig.cache
