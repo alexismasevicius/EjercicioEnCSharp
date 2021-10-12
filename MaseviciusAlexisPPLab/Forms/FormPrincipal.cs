@@ -66,50 +66,53 @@ namespace Forms
         {
             Trooper miTrooper = null;
 
-            if (cmbTipo.Text == "Arena")
+            switch (cmbTipo.Text)
             {
-                if(cmbBlaster.SelectedItem is Blaster.E11)
-                {
-                    miTrooper = new TrooperArena(Blaster.E11);
-                }
-                else if(cmbBlaster.SelectedItem is Blaster.EC17)
-                {
-                    miTrooper = new TrooperArena(Blaster.EC17);
-                }
-                else if(cmbBlaster.SelectedItem is Blaster.DLT19)
-                {
-                    miTrooper = new TrooperArena(Blaster.DLT19);
-                }
-            }
-            else if(cmbTipo.Text == "Asalto")
-            {
-                if (cmbBlaster.SelectedItem is Blaster.E11)
-                {
-                    miTrooper = new TrooperAsalto(Blaster.E11);
-                }
-                else if (cmbBlaster.SelectedItem is Blaster.EC17)
-                {
-                    miTrooper = new TrooperAsalto(Blaster.EC17);
-                }
-                else if (cmbBlaster.SelectedItem is Blaster.DLT19)
-                {
-                    miTrooper = new TrooperAsalto(Blaster.DLT19);
-                }
-            }
-            else if(cmbTipo.Text == "Explorador")
-            {
-                if (cmbBlaster.SelectedItem is Blaster.E11)
-                {
-                    miTrooper = new TrooperExplorador("Moto", Blaster.E11);
-                }
-                else if (cmbBlaster.SelectedItem is Blaster.EC17)
-                {
-                    miTrooper = new TrooperExplorador("Moto", Blaster.EC17);
-                }
-                else if (cmbBlaster.SelectedItem is Blaster.DLT19)
-                {
-                    miTrooper = new TrooperExplorador("Moto", Blaster.DLT19);
-                }
+                case "Arena":
+                    if (cmbBlaster.SelectedItem is Blaster.E11)
+                    {
+                        miTrooper = new TrooperArena(Blaster.E11);
+                    }
+                    else if (cmbBlaster.SelectedItem is Blaster.EC17)
+                    {
+                        miTrooper = new TrooperArena(Blaster.EC17);
+                    }
+                    else if (cmbBlaster.SelectedItem is Blaster.DLT19)
+                    {
+                        miTrooper = new TrooperArena(Blaster.DLT19);
+                    }
+                    break;
+
+                case "Asalto":
+                    if (cmbBlaster.SelectedItem is Blaster.E11)
+                    {
+                        miTrooper = new TrooperAsalto(Blaster.E11);
+                    }
+                    else if (cmbBlaster.SelectedItem is Blaster.EC17)
+                    {
+                        miTrooper = new TrooperAsalto(Blaster.EC17);
+                    }
+                    else if (cmbBlaster.SelectedItem is Blaster.DLT19)
+                    {
+                        miTrooper = new TrooperAsalto(Blaster.DLT19);
+                    }
+                    break;
+
+                case "Explorador":
+                    if (cmbBlaster.SelectedItem is Blaster.E11)
+                    {
+                        miTrooper = new TrooperExplorador("Deslizador", Blaster.E11);
+                    }
+                    else if (cmbBlaster.SelectedItem is Blaster.EC17)
+                    {
+                        miTrooper = new TrooperExplorador("", Blaster.EC17);
+                    }
+                    else if (cmbBlaster.SelectedItem is Blaster.DLT19)
+                    {
+                        miTrooper = new TrooperExplorador("Moto", Blaster.DLT19);
+                    }
+                    break;
+
             }
 
             if(miTrooper is not null)
@@ -143,13 +146,14 @@ namespace Forms
                ejercitoImperial -= new TrooperArena(Blaster.EC17);
 
             }
-            if (cmbTipo.SelectedIndex == 1)
-            {
-                ejercitoImperial -= new TrooperAsalto(Blaster.E11);
-            }
-            if (cmbTipo.SelectedIndex == 2)
+            else if (cmbTipo.SelectedIndex == 1)
             {
                 ejercitoImperial -= new TrooperExplorador("Moto");
+            }
+            else if (cmbTipo.SelectedIndex == 2)
+            {
+                ejercitoImperial -= new TrooperAsalto(Blaster.E11);
+                
             }
 
             RefrescarEjercito();

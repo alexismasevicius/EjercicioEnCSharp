@@ -22,7 +22,7 @@ namespace BibliotecaDeClases
 
         public TrooperExplorador(string vehiculo, Blaster blaster) : base(blaster)
         {
-            this.vehiculo = vehiculo;
+            this.Vehiculo = vehiculo;
         }
 
         //PROPIEDADES

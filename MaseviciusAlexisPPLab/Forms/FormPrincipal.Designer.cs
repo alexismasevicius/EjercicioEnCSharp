@@ -47,9 +47,9 @@ namespace Forms
             this.btnQuitar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.btnQuitar.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnQuitar.ForeColor = System.Drawing.Color.Gold;
-            this.btnQuitar.Location = new System.Drawing.Point(33, 349);
+            this.btnQuitar.Location = new System.Drawing.Point(33, 369);
             this.btnQuitar.Name = "btnQuitar";
-            this.btnQuitar.Size = new System.Drawing.Size(94, 29);
+            this.btnQuitar.Size = new System.Drawing.Size(151, 50);
             this.btnQuitar.TabIndex = 0;
             this.btnQuitar.Text = "Quitar";
             this.btnQuitar.UseVisualStyleBackColor = false;
@@ -63,9 +63,9 @@ namespace Forms
             this.btnAgregar.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.btnAgregar.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnAgregar.ForeColor = System.Drawing.Color.Gold;
-            this.btnAgregar.Location = new System.Drawing.Point(33, 301);
+            this.btnAgregar.Location = new System.Drawing.Point(33, 313);
             this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(94, 29);
+            this.btnAgregar.Size = new System.Drawing.Size(151, 50);
             this.btnAgregar.TabIndex = 1;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = false;
@@ -100,16 +100,16 @@ namespace Forms
             this.lstEjercito.ForeColor = System.Drawing.Color.Gold;
             this.lstEjercito.FormattingEnabled = true;
             this.lstEjercito.ItemHeight = 17;
-            this.lstEjercito.Location = new System.Drawing.Point(404, 32);
+            this.lstEjercito.Location = new System.Drawing.Point(317, 32);
             this.lstEjercito.Name = "lstEjercito";
-            this.lstEjercito.Size = new System.Drawing.Size(646, 361);
+            this.lstEjercito.Size = new System.Drawing.Size(774, 395);
             this.lstEjercito.TabIndex = 4;
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(33, 153);
+            this.pictureBox1.Location = new System.Drawing.Point(33, 183);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(127, 124);
             this.pictureBox1.TabIndex = 5;
@@ -121,11 +121,11 @@ namespace Forms
             this.ckbEsTrooper.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ckbEsTrooper.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.ckbEsTrooper.ForeColor = System.Drawing.Color.Gold;
-            this.ckbEsTrooper.Location = new System.Drawing.Point(230, 32);
+            this.ckbEsTrooper.Location = new System.Drawing.Point(62, 140);
             this.ckbEsTrooper.Name = "ckbEsTrooper";
-            this.ckbEsTrooper.Size = new System.Drawing.Size(116, 27);
+            this.ckbEsTrooper.Size = new System.Drawing.Size(98, 27);
             this.ckbEsTrooper.TabIndex = 6;
-            this.ckbEsTrooper.Text = "Es Trooper";
+            this.ckbEsTrooper.Text = "Es Clone";
             this.ckbEsTrooper.UseVisualStyleBackColor = false;
             // 
             // label2
@@ -156,7 +156,7 @@ namespace Forms
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(1164, 434);
+            this.ClientSize = new System.Drawing.Size(1164, 472);
             this.Controls.Add(this.cmbBlaster);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.ckbEsTrooper);
@@ -171,7 +171,7 @@ namespace Forms
             this.MaximizeBox = false;
             this.Name = "FormPrincipal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "MaseviciusAlexis";
+            this.Text = "Bienvenidos a la fabrica de troopers del Lado Oscuro";
             this.Load += new System.EventHandler(this.FormPrincipal_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
