@@ -138,6 +138,7 @@ namespace Ejercicio30
         {
             if(c.Tipo == TipoCompetencia.F1)
             {
+
                 foreach (AutoF1 item in c.competidores)
                 {
                     if (item == a)
@@ -146,9 +147,11 @@ namespace Ejercicio30
                     }
                 }
             }
-            
 
             return false;
+
+            
+
         }
 
         public static bool operator ==(Competencia c, MotoCross a)

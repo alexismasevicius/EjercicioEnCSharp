@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases5y6\\Ejercicio36\\Ejercicio30.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio43\\Ejercicio36\\Ejercicio30.csproj",
       "projectName": "Ejercicio30",
-      "projectPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases5y6\\Ejercicio36\\Ejercicio30.csproj",
+      "projectPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio43\\Ejercicio36\\Ejercicio30.csproj",
       "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases5y6\\Ejercicio36\\obj\\",
+      "outputPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio43\\Ejercicio36\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
