@@ -1,0 +1,12 @@
+C:\Users\alexi\source\repos\Ejercicio47\bin\Debug\net5.0\Ejercicio47.deps.json
+C:\Users\alexi\source\repos\Ejercicio47\bin\Debug\net5.0\Ejercicio47.dll
+C:\Users\alexi\source\repos\Ejercicio47\bin\Debug\net5.0\ref\Ejercicio47.dll
+C:\Users\alexi\source\repos\Ejercicio47\bin\Debug\net5.0\Ejercicio47.pdb
+C:\Users\alexi\source\repos\Ejercicio47\obj\Debug\net5.0\Ejercicio47.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Ejercicio47\obj\Debug\net5.0\Ejercicio47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Ejercicio47\obj\Debug\net5.0\Ejercicio47.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Ejercicio47\obj\Debug\net5.0\Ejercicio47.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Ejercicio47\obj\Debug\net5.0\Ejercicio47.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Ejercicio47\obj\Debug\net5.0\Ejercicio47.dll
+C:\Users\alexi\source\repos\Ejercicio47\obj\Debug\net5.0\ref\Ejercicio47.dll
+C:\Users\alexi\source\repos\Ejercicio47\obj\Debug\net5.0\Ejercicio47.pdb

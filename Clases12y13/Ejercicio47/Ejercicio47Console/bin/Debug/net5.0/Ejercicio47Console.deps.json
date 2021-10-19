@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ejercicio47Console/1.0.0": {
+        "dependencies": {
+          "Ejercicio47": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio47Console.dll": {}
+        }
+      },
+      "Ejercicio47/1.0.0": {
+        "runtime": {
+          "Ejercicio47.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio47Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ejercicio47/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

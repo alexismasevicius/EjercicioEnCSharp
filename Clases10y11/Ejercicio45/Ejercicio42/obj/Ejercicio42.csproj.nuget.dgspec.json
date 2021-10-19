@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio42\\Ejercicio42\\Ejercicio42.csproj": {}
+    "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio45\\Ejercicio42\\Ejercicio42.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio42\\Ejercicio42\\Ejercicio42.csproj": {
+    "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio45\\Ejercicio42\\Ejercicio42.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio42\\Ejercicio42\\Ejercicio42.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio45\\Ejercicio42\\Ejercicio42.csproj",
         "projectName": "Ejercicio42",
-        "projectPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio42\\Ejercicio42\\Ejercicio42.csproj",
+        "projectPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio45\\Ejercicio42\\Ejercicio42.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio42\\Ejercicio42\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases10y11\\Ejercicio45\\Ejercicio42\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Ejercicio42
 {
-    class MiClase
+    public class MiClase
     {
         public MiClase()
         {
             try
             {
-                metodoEstatico();
+                MetodoEstatico();
             }
             catch (DivideByZeroException e)
             {
@@ -32,7 +32,7 @@ namespace Ejercicio42
             }
         }
 
-        public static void metodoEstatico()
+        public static void MetodoEstatico()
         {
             try
             {
