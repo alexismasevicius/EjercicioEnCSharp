@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "BiblioDeClases/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/BiblioDeClases.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BiblioDeClases.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "BiblioDeClases/1.0.0": {
-      "type": "project",
-      "path": "../BiblioDeClases/BiblioDeClases.csproj",
-      "msbuildProject": "../BiblioDeClases/BiblioDeClases.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "BiblioDeClases >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\alexi\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases12y13\\Ejercicio48\\Ejercicio48\\Ejercicio48.csproj",
-      "projectName": "Ejercicio48",
-      "projectPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases12y13\\Ejercicio48\\Ejercicio48\\Ejercicio48.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases12y13\\Ejercicio50\\Ejercicio50\\Ejercicio50.csproj",
+      "projectName": "Ejercicio50",
+      "projectPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases12y13\\Ejercicio50\\Ejercicio50\\Ejercicio50.csproj",
       "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases12y13\\Ejercicio48\\Ejercicio48\\obj\\",
+      "outputPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases12y13\\Ejercicio50\\Ejercicio50\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases12y13\\Ejercicio48\\BiblioDeClases\\BiblioDeClases.csproj": {
-              "projectPath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases12y13\\Ejercicio48\\BiblioDeClases\\BiblioDeClases.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

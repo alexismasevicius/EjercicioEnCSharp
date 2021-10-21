@@ -1,0 +1,12 @@
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\bin\Debug\net5.0\BiblioDeClases.deps.json
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\bin\Debug\net5.0\BiblioDeClases.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\bin\Debug\net5.0\ref\BiblioDeClases.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\bin\Debug\net5.0\BiblioDeClases.pdb
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\obj\Debug\net5.0\BiblioDeClases.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\obj\Debug\net5.0\BiblioDeClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\obj\Debug\net5.0\BiblioDeClases.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\obj\Debug\net5.0\BiblioDeClases.AssemblyInfo.cs
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\obj\Debug\net5.0\BiblioDeClases.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\obj\Debug\net5.0\BiblioDeClases.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\obj\Debug\net5.0\ref\BiblioDeClases.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases12y13\Ejercicio48\BiblioDeClases\obj\Debug\net5.0\BiblioDeClases.pdb

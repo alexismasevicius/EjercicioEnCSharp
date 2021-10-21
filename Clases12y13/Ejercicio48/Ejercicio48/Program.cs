@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BiblioDeClases;
+using System;
 
 namespace Ejercicio48
 {
@@ -6,7 +7,18 @@ namespace Ejercicio48
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Contabilidad<Factura, Recibo> c = new Contabilidad<Factura, Recibo>();
+
+            Recibo recibo = new Recibo();
+            Recibo reciboDos = new Recibo(211);
+            Factura factura = new Factura(2124545);
+
+            c += factura;
+            c += recibo;
+            c += reciboDos;
+
+            Console.WriteLine(c.Mostrar());
+
         }
     }
 }
