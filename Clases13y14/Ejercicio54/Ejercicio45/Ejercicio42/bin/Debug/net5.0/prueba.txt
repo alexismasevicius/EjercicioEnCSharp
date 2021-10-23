@@ -1,0 +1,4 @@
+No se puede dividir por 0. Mi excepcion
+No se puede dividir por 0.UnaExcepcion
+Attempted to divide by zero.
+

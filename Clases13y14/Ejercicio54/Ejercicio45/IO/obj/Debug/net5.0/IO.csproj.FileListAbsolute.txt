@@ -1,0 +1,11 @@
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\bin\Debug\net5.0\IO.deps.json
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\bin\Debug\net5.0\IO.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\bin\Debug\net5.0\ref\IO.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\bin\Debug\net5.0\IO.pdb
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\obj\Debug\net5.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\obj\Debug\net5.0\IO.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\obj\Debug\net5.0\IO.AssemblyInfo.cs
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\obj\Debug\net5.0\IO.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\obj\Debug\net5.0\IO.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\obj\Debug\net5.0\ref\IO.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio54\Ejercicio45\IO\obj\Debug\net5.0\IO.pdb
