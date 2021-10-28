@@ -1,0 +1,3 @@
+{"CostoLlamada":13.860001,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":14,"NroDestino":"#55588555","NroOrigen":""}
+{"CostoLlamada":56,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":14,"NroDestino":"22255","NroOrigen":"46664"}
+{"CostoLlamada":35,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":35,"NroDestino":"5555566","NroOrigen":"6464"}

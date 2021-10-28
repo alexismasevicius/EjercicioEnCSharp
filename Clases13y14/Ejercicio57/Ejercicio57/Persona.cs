@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Text.Json;
 using System.IO;
+using System.Xml.Serialization;
 
 namespace Ejercicio57
 {
@@ -15,7 +16,12 @@ namespace Ejercicio57
 
         public string Nombre { get => nombre; set => nombre = value; }
         public string Apellido { get => apellido; set => apellido = value; }
-       
+
+        public Persona()
+        {
+        }
+
+
         public Persona(string nombre, string apellido)
         {
             this.nombre = nombre;
@@ -85,6 +91,46 @@ namespace Ejercicio57
                 Console.WriteLine("ERROR . El archivo no existe");
                 return null;
             }
+
+        }
+
+        public static void GuardarXML(Persona miPersona)
+        {
+            try
+            {
+                using (StreamWriter streamWriter = new StreamWriter(@"C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio57\serializacionXML.xml"))
+                {
+                    XmlSerializer xmlSerializer = new XmlSerializer(typeof(Persona));
+
+                    xmlSerializer.Serialize(streamWriter, miPersona);
+                }
+            }
+            catch
+            {
+                throw new Exception("Error al guardar archivo XML");
+            }
+
+
+        }
+        
+        public static Persona LeerXML(string path)
+        {
+            try
+            {
+                using (StreamReader streamReader = new StreamReader(path))
+                {
+                    XmlSerializer xmlSerializer = new XmlSerializer(typeof(Persona));
+
+                    Persona personaAux = xmlSerializer.Deserialize(streamReader) as Persona;
+
+                    return personaAux;
+                }
+            }
+            catch(Exception e)
+            {
+                throw new Exception("Error al leer el archivo XML");
+            }
+
 
         }
 
