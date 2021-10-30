@@ -1,0 +1,15 @@
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\bin\Debug\net5.0\CentralitaDAO.deps.json
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\bin\Debug\net5.0\CentralitaDAO.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\bin\Debug\net5.0\ref\CentralitaDAO.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\bin\Debug\net5.0\CentralitaDAO.pdb
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\bin\Debug\net5.0\CentralitaHerencia.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\bin\Debug\net5.0\CentralitaHerencia.pdb
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\obj\Debug\net5.0\CentralitaDAO.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\obj\Debug\net5.0\CentralitaDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\obj\Debug\net5.0\CentralitaDAO.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\obj\Debug\net5.0\CentralitaDAO.AssemblyInfo.cs
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\obj\Debug\net5.0\CentralitaDAO.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\obj\Debug\net5.0\CentralitaDAO.csproj.CopyComplete
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\obj\Debug\net5.0\CentralitaDAO.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\obj\Debug\net5.0\ref\CentralitaDAO.dll
+C:\Users\alexi\Desktop\EjercicioEnCSharp\Clases13y14\Ejercicio62\Ejercicio44\Ejercicio37\CentralitaDAO\obj\Debug\net5.0\CentralitaDAO.pdb

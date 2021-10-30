@@ -1,3 +1,9 @@
 {"CostoLlamada":13.860001,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":14,"NroDestino":"#55588555","NroOrigen":""}
 {"CostoLlamada":56,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":14,"NroDestino":"22255","NroOrigen":"46664"}
 {"CostoLlamada":35,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":35,"NroDestino":"5555566","NroOrigen":"6464"}
+{"CostoLlamada":126,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":42,"NroDestino":"55555","NroOrigen":"46"}
+{"CostoLlamada":147,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":49,"NroDestino":"55555668","NroOrigen":"4656451"}
+{"CostoLlamada":18.81,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":19,"NroDestino":"#55555633","NroOrigen":"46465"}
+{"CostoLlamada":78,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":39,"NroDestino":"55556633","NroOrigen":"45556"}
+{"CostoLlamada":96,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":48,"NroDestino":"55555","NroOrigen":"48466"}
+{"CostoLlamada":40,"RutaDeArchivo":"C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases13y14\\Ejercicio59\\serializacionJson.txt","Duracion":40,"NroDestino":"66666","NroOrigen":"15646"}
