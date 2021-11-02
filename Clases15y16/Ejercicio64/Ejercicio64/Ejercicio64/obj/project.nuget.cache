@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wx0mYiFxoDMUgbg5BFVWKRHbCn1grSwWBkXerX+l0EMSjLnjJ73o0PTgUStw1mXWCkFoOL4RgnNlMuHpule8VQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexi\\Desktop\\EjercicioEnCSharp\\Clases15y16\\Ejercicio64\\Ejercicio64\\Ejercicio64\\Ejercicio64.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexi\\.nuget\\packages\\namegenerator\\2.0.4\\namegenerator.2.0.4.nupkg.sha512",
+    "C:\\Users\\alexi\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
