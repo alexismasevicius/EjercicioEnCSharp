@@ -26,6 +26,7 @@ namespace FormReloj
         {
             this.label1.Text = DateTime.Now.ToString();
             CancellationToken cancellationToken = cancellationTokenSource.Token;
+           
             
             Task hiloUno = Task.Run(() => AsignarHora(cancellationToken));
             
@@ -50,11 +51,6 @@ namespace FormReloj
             while (true)
             {
 
-                if (t.IsCancellationRequested)
-                {
-                    return;
-                }
-
                 this.RefrescarReloj(t);
                 Thread.Sleep(1000);
             }      
@@ -74,10 +70,7 @@ namespace FormReloj
             }
             else
             {
-                if (t.IsCancellationRequested)
-                {
-                    return;
-                }
+  
                 this.label1.Text = DateTime.Now.ToString();
             }
 

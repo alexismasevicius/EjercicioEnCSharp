@@ -1,0 +1,42 @@
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csprojAssemblyReference.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+F:\Temporal\ExamBuilder\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csprojAssemblyReference.cache
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+F:\Temporal\Trabajo_UTN\Programación_II\Parciales\SP_1C2019_2C\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.pdb
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\obj\Debug\ComiqueriaLogic.pdb
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Data.SqlClient.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Data.SqlClient.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\obj\Debug\[2] ComiqueriaLogic.csproj.CopyComplete
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\ComiqueriaLogic.dll.config
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Buffers.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Memory.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Text.Json.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.ValueTuple.dll
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Buffers.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Memory.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Text.Json.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\alexi\Desktop\ComiqueriaApp\ComiqueriaLogic\bin\Debug\System.ValueTuple.xml
