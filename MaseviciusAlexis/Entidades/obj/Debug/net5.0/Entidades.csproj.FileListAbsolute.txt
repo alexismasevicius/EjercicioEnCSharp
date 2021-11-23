@@ -1,0 +1,27 @@
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\bin\Debug\net5.0\Entidades.deps.json
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\bin\Debug\net5.0\Entidades.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\bin\Debug\net5.0\Entidades.pdb
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\obj\Debug\net5.0\Entidades.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\bin\Debug\net5.0\Archivos.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\bin\Debug\net5.0\Archivos.pdb
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\obj\Debug\net5.0\Entidades.csproj.CopyComplete
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\Entidades\obj\Debug\net5.0\Entidades.pdb

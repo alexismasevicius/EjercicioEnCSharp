@@ -1,0 +1,50 @@
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\View.exe
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\View.deps.json
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\View.runtimeconfig.json
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\View.runtimeconfig.dev.json
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\View.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\ref\View.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\View.pdb
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\Archivos.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\Entidades.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\Archivos.pdb
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\bin\Debug\net5.0-windows\Entidades.pdb
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.csproj.AssemblyReference.cache
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.FrmView.resources
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.csproj.GenerateResource.cache
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.AssemblyInfoInputs.cache
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.AssemblyInfo.cs
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.csproj.CoreCompileInputs.cache
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\ref\View.dll
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.pdb
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.genruntimeconfig.cache
+J:\Visual UTN 2019\Examenes\20211209-SP Calesita\20211111-SP\View\obj\Debug\net5.0-windows\View.Properties.Resources.resources
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\View.exe
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\View.deps.json
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\View.runtimeconfig.json
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\View.runtimeconfig.dev.json
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\View.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\ref\View.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\View.pdb
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\Archivos.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\Archivos.pdb
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.csproj.AssemblyReference.cache
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.FrmView.resources
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.Properties.Resources.resources
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.csproj.GenerateResource.cache
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.AssemblyInfoInputs.cache
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.AssemblyInfo.cs
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.csproj.CopyComplete
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\ref\View.dll
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.pdb
+C:\Users\alexi\Desktop\MaseviciusAlexis\View\obj\Debug\net5.0-windows\View.genruntimeconfig.cache
